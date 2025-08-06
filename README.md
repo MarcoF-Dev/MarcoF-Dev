@@ -16,7 +16,7 @@
 🎯 Ho 16 anni e mi sto formando come sviluppatore web.  
 💻 Studio HTML, CSS e JavaScript con progetti pratici.  
 🧠 Voglio diventare un software engineer e lavorare in aziende come Google.  
-📚 Mi esercito ogni giorno su LeetCode, creo app, gestisco il DOM e salvo dati con `localStorage`.
+
 
 ---
 
