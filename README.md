@@ -8,7 +8,7 @@
 <h3 align="center" style="color:#3d3d3d;">Studente • Web Developer • Appassionato di JavaScript</h3>
 
 <p align="center">
-  <img src="URL_TUA_IMMAGINE" width="140" style="border-radius:50%;" alt="Avatar profilo" />
+  <img src="https://imgur.com/a/VQ8GyWI" width="140" style="border-radius:50%;" alt="Avatar profilo" />
 </p>
 
 ---
