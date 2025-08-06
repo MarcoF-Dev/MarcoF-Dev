@@ -2,10 +2,8 @@
 
 <!--
 **MarcoF-Dev/MarcoF-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- HEADER -->
-<h1 align="center" style="color:#f78c1f;">Marco Favara</h1>
-<h3 align="center" style="color:#3d3d3d;">Studente • Web Developer • Appassionato di JavaScript</h3>
+<h1 align="center">Marco Favara</h1>
+<h3 align="center">Studente • Web Developer • Appassionato di JavaScript</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/jGYIpkf.png" width="140" height="140" style="border-radius:50%;" alt="Avatar profilo" />
@@ -28,7 +26,7 @@
 |---------|-------------|------|
 | **Barber Shop** | Sito per prenotare appuntamenti in un barbiere | [Vai al sito](https://MarcoF-Dev.github.io/Barber-shop/) |
 | **MyFinance** | Gestione spese/entrate con grafici e UI pulita | _In sviluppo_ |
-| **LeetCode Repo** | Esercizi JS risolti per allenamento algoritmico | [Visualizza repo](https://MarcoF-Dev.github.com//leetcode-js) |
+| **LeetCode Repo** | Esercizi JS risolti per allenamento algoritmico | [Visualizza repo](https://github.com/MarcoF-Dev/leetcode-js) |
 
 ---
 
@@ -62,4 +60,5 @@
 ---
 
 > 🧠 _"Ogni sviluppatore esperto ha iniziato come principiante. La differenza è che non ha mai smesso."_
+
 
