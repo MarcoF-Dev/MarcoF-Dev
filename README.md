@@ -25,7 +25,7 @@
 | Progetto | Descrizione | Link |
 |---------|-------------|------|
 | **Barber Shop** | Sito per prenotare appuntamenti in un barbiere | [Vai al sito](https://MarcoF-Dev.github.io/Barber-shop/) |
-| **VisualSummarize** |app web che estrae testo da file e genera automaticamente un riassunto con concetti chiave." | _In sviluppo_ |
+| **VisualSummarize** |app web che estrae testo da file e genera automaticamente un riassunto con concetti chiave." |[Vai al sito](https://marcof-dev.github.io/VisioSummarize/) |
 | **LeetCode Repo** | Esercizi JS risolti per allenamento algoritmico | [Visualizza repo](https://github.com/MarcoF-Dev/leetcode-js) |
 
 ---
