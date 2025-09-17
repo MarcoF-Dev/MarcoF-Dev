@@ -26,7 +26,7 @@
 |---------|-------------|------|
 | **Barber Shop** | Sito per prenotare appuntamenti in un barbiere | [Vai al sito](https://MarcoF-Dev.github.io/Barber-shop/) |
 | **VisualSummarize** |app web che estrae testo da file e genera automaticamente un riassunto con concetti chiave." |[Vai al sito](https://marcof-dev.github.io/VisioSummarize/) |
-| **ConceptMap Pro** | app web per creare mappe concettuali manuali e intelligenti, con nodi, collegamenti e generazione automatica da testo. | [Vai al sito](marcof-dev.github.io/ConceptMap-Pro/) |
+| **ConceptMap Pro** | app web per creare mappe concettuali manuali e intelligenti, con nodi, collegamenti e generazione automatica da testo. | [Vai al sito](https://marcof-dev.github.io/ConceptMap-Pro/) |
 
 
 ---
